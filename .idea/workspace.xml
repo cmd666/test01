@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42991705-f646-4497-910a-a895144a20fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/Vehicle03/Bike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/Vehicle03/Bus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/Vehicle03/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/Vehicle03/interfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/VehicleLei/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/VehicleLei/Motorbike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/VehicleLei/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/VehicleLei/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package4/BulletProofDoor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package4/BulletSafe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package4/Door.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package4/FireProofDoor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package4/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package5/arraytest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package6/Cricle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package6/InterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package6/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/package6/Shape2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/teacherOne/MusicTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/teacherOne/SoftwareTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/teacherOne/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/teacherOne/TestMusicTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork415/teacherOne/TestSoftwareTeacher.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/package5/arraytest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/package5" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6c049908-463c-408e-9497-72c47daa5824" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/homework/one.java" />
+        <option value="$PROJECT_DIR$/src/homework/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/homework/TestMusicTeacher.java" />
+        <option value="$PROJECT_DIR$/src/homework/TestSoftwareTeacher.java" />
+        <option value="$PROJECT_DIR$/src/homework/SoftwareTeacher.java" />
+        <option value="$PROJECT_DIR$/src/homework/MusicTeacher.java" />
+        <option value="$PROJECT_DIR$/src/01Teacher/MusicTeacher.java" />
+        <option value="$PROJECT_DIR$/src/01Teacher/SoftwareTeacher.java" />
+        <option value="$PROJECT_DIR$/src/01Teacher/TestMusicTeacher.java" />
+        <option value="$PROJECT_DIR$/src/01Teacher/TestSoftwareTeacher.java" />
+        <option value="$PROJECT_DIR$/src/01Teacher/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/teacherOne/TestMusicTeacher.java" />
+        <option value="$PROJECT_DIR$/src/teacherOne/TestSoftwareTeacher.java" />
+        <option value="$PROJECT_DIR$/src/teacherOne/SoftwareTeacher.java" />
+        <option value="$PROJECT_DIR$/src/teacherOne/MusicTeacher.java" />
+        <option value="$PROJECT_DIR$/src/VehicleLei/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/VehicleLei/Motorbike.java" />
+        <option value="$PROJECT_DIR$/src/VehicleLei/Car.java" />
+        <option value="$PROJECT_DIR$/src/VehicleLei/Test.java" />
+        <option value="$PROJECT_DIR$/src/Vehicle03/Bike.java" />
+        <option value="$PROJECT_DIR$/src/Vehicle03/Bus.java" />
+        <option value="$PROJECT_DIR$/src/Vehicle03/demo3.java" />
+        <option value="$PROJECT_DIR$/src/Vehicle03/interfaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/package4/Door.java" />
+        <option value="$PROJECT_DIR$/src/package4/BulletSafe.java" />
+        <option value="$PROJECT_DIR$/src/package4/FireProofDoor.java" />
+        <option value="$PROJECT_DIR$/src/package4/BulletProofDoor.java" />
+        <option value="$PROJECT_DIR$/src/package4/Test.java" />
+        <option value="$PROJECT_DIR$/src/package6/Shape2D.java" />
+        <option value="$PROJECT_DIR$/src/package6/Cricle.java" />
+        <option value="$PROJECT_DIR$/src/package6/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/teacherOne/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/package5/sajbkkbc.java" />
+        <option value="$PROJECT_DIR$/src/package5/arraytest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HomeWork415" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork415" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork415" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork415" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.arraytest">
+    <configuration name="InterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package6.InterfaceDemo" />
+      <module name="HomeWork415" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package4.Test" />
+      <module name="HomeWork415" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package5.Test" />
+      <module name="HomeWork415" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arraytest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package5.arraytest" />
+      <module name="HomeWork415" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vehicle03.interfaceDemo" />
+      <module name="HomeWork415" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vehicle03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.arraytest" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.InterfaceDemo" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.interfaceDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42991705-f646-4497-910a-a895144a20fc" name="Default Changelist" comment="" />
+      <created>1586951941405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586951941405</updated>
+      <workItem from="1586951946186" duration="1941000" />
+      <workItem from="1586954081562" duration="6875000" />
+      <workItem from="1586998074719" duration="1882000" />
+      <workItem from="1587346817111" duration="1662000" />
+      <workItem from="1587610440798" duration="3409000" />
+      <workItem from="1587616675140" duration="3662000" />
+      <workItem from="1587621667011" duration="280000" />
+      <workItem from="1587622003618" duration="486000" />
+      <workItem from="1587623174374" duration="1563000" />
+      <workItem from="1587624767300" duration="2616000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1587614084859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587614084859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit Message">
+      <created>1587621575699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587621575699</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit Message">
+      <created>1587623378296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587623378296</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit Message">
+      <created>1587623493101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587623493101</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit Message">
+      <created>1587623998407</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587623998407</updated>
+    </task>
+    <task id="LOCAL-00006" summary="测试">
+      <created>1587624877998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587624877998</updated>
+    </task>
+    <task id="LOCAL-00007" summary="测试2">
+      <created>1587625509654</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587625509654</updated>
+    </task>
+    <task id="LOCAL-00008" summary="测试2">
+      <created>1587625543885</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587625543885</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24376000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="781" height="840" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49930266" visible="true" weight="0.3042877" />
+      <window_info id="Structure" order="1" sideWeight="0.5006974" side_tool="true" weight="0.14879356" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49932975" visible="true" weight="0.3319209" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49932975" weight="0.17318435" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50067025" side_tool="true" weight="0.3282123" />
+      <window_info anchor="right" id="Translation Assistant" order="0" weight="0.3297587" />
+      <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/out" />
+    </ignored-roots>
+    <MESSAGE value="test" />
+    <MESSAGE value="Commit Message" />
+    <MESSAGE value="测试" />
+    <MESSAGE value="测试2" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试2" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/homework/one.java" />
+    <entry file="jar://$PROJECT_DIR$/../JDK/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/Teacher.java" />
+    <entry file="file://$PROJECT_DIR$/../teacher/MusicTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../teacher/TestMusicTeacher.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../teacher/TestMathTeacher.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../teacher/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework/Teacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/homework/SoftwareTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/homework/MusicTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/homework/TestSoftwareTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/homework/TestMusicTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/Teacher/MusicTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/01Teacher/TestSoftwareTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/01Teacher/SoftwareTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/01Teacher/MusicTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/01Teacher/TestMusicTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/01Teacher/Teacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/teacherOne/TestMusicTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teacherOne/TestSoftwareTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teacherOne/SoftwareTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teacherOne/MusicTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VehicleLei/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VehicleLei/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VehicleLei/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vehicle03/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vehicle03/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VehicleLei/Motorbike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vehicle03/interfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vehicle03/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package4/Door.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package4/BulletSafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package4/FireProofDoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package4/BulletProofDoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package4/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package6/Shape2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package6/Cricle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package6/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package6/InterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package5/sajbkkbc.java" />
+    <entry file="file://$PROJECT_DIR$/src/teacherOne/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="84" column="42" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/HomeWork415/package4/BulletProofDoor.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/HomeWork415/package4/FireProofDoor.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/HomeWork415/package4/BulletSafe.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/HomeWork415/package4/Door.class" />
+    <entry file="file://$PROJECT_DIR$/src/package5/arraytest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HomeWork415</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
